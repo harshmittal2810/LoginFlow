@@ -7,7 +7,7 @@ Using this theme for start activity faster than before:
 
 
             <activity
-                android:name=".activity.MainEmptyActivity"
+                android:name=".MainEmptyActivity"
                 android:theme="@android:style/Theme.NoDisplay">
                 <intent-filter>
                     <action android:name="android.intent.action.MAIN"/>
